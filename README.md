@@ -6,7 +6,7 @@ A dedicated website and community hub for selling retro gaming consoles. It serv
 
 * **WooCommerce:** Powers the e-commerce functionality, product listings, and checkout process.
 * **Members:** Manages user roles, permissions, and account access.
-* **Embed Plus for YouTube Gallery:** seamlessly integrates and displays YouTube video content directly on the site.
+* **Embed Plus for YouTube Gallery:** Seamlessly integrates and displays YouTube video content directly on the site.
 
 ## Features
 
@@ -45,7 +45,7 @@ A dedicated website and community hub for selling retro gaming consoles. It serv
 <br>
 <img width="1901" height="1021" alt="Screenshot 2026-05-30 092737" src="https://github.com/user-attachments/assets/f228d75c-2ee9-4e01-acfd-d235cf84bd67" />
 
-### Videos Gallery
+### Video Gallery
 <img width="1893" height="1044" alt="Screenshot 2026-05-30 093008" src="https://github.com/user-attachments/assets/8fcd14a7-6790-4603-b273-bb6cf8356b55" />
 
 ### Admin Portal
